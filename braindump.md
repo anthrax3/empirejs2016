@@ -18,6 +18,8 @@ Advanced Beginners & Praise From Coworkers
 Caring Too Much
 Developing your Palette - Experience running into things and recognizing them
 The Walk In & chefs who get mad
+technique
+"eyeballing it" is a common misconception in professional cooking, that there is a 6th sense. untrue, measurement is the perfection b ratios mean everything.
 You don't need that garlic peeler & other useless kitchen gadgets, libraries and frameworks
 Alice Waters and Techniques that respect the ingredients
 what the tech industry can learn from the restaurant industry in the areas of 1. being a better leader 2. working as a team (between line cooks aka engineers & with FoH aka product) 3. iterating & shipping aka dinner service & fire table X’s ticket  and 4. community
@@ -30,13 +32,48 @@ family meal
 first you learn how, then you learn why. you learn it in this order bc there is too much to learn about the why, so you have to lear how first so that you can be educated on picking which "whys" you want to learn [César Vega's The Kitchen As Laboratory](http://www.smithsonianmag.com/arts-culture/how-do-you-cook-the-perfect-egg-87844887/?no-ist)
 Chefs worship at the church of the abuela, nonna, bubbie, babushka, oba-san, (grandmother)
 it's important to remember that design should be about what's familiar.
-Wylie Dufresne on Eggs Benedict
-"we take things that are familiar and present them in an unfamiliar way... eggs benedict means something to you, you have emotional ties, whether it means sunday brunch or your mom making it for you... we want to take it and upend it but we don't want to mess with the spirit of it. when you put it in your mouth, and have eggs benedict the way you remember it."
-https://www.youtube.com/watch?v=PBMqEeq2j6o at 19:45
+
+Wylie Dufresne on Eggs Benedict "we take things that are familiar and present them in an unfamiliar way... eggs benedict means something to you, you have emotional ties, whether it means sunday brunch or your mom making it for you... we want to take it and upend it but we don't want to mess with the spirit of it. when you put it in your mouth, and have eggs benedict the way you remember it." https://www.youtube.com/watch?v=PBMqEeq2j6o at 19:45
+
+"Out of this appetite for knowledge has come some really amazing results, techniques and cooking styles. And some of these will stay and become part of everyday cooking and some of them will go away, probably for the better. but regardless of which things do or don't catch on, what will remain is the knowledge that we've gained along the way, in the process. and what we will be left with, ultimately... are better cooks. that's really our goal, to make better cooks." –Wylie Dufresne
+
 "And my experience, in Mexico City, is that the only way you can have good staff is if they’re involved in what you’re doing, and their lives benefit from working with you. Like, it makes sense for them on more than just the economical level." [Gabriela Camara](http://luckypeach.com/gabriela-camara-on-staffing-a-restaurant-in-san-francisco/)
 Good teams of cooks have mastered the art of "perfectionism with happiness" bc they understand it's not about being "perfect", it's about getting to a point where you can't improve on it, where you've done the best you can do
 supper clubs are our personal projects
+css is to programming as butter is to sauce. it enriches it, it makes it palatable
+On tempers “Keller was once well known for his temper. Many of the cooks who worked under him hated him. When one of his line cooks once complained about a late walk-in, Keller fired the cook on the spot. You want to go home, go home, Keller said. The young cook pleaded and pleaded. But fired means fired.
+Reminded about his early days, he says, “There comes a point when you’ve exhausted rational expression. And you’ve got to revert to more primitive means. But by then it’s too late anyway.So now he uses calmer means to convey his anger or disapproval. Silence can be more effective than a scream. And he will get angry in his kitchen, but I never heard him raise his voice. His anger is concentrated and focused.” Excerpt From: Michael Ruhlman. “The Soul of a Chef.” iBooks. ”Excerpt From: Michael Ruhlman. “The Soul of a Chef.” iBooks.
+On working clean. Bourdain talks about how a chef will put his hand down on the cutting board of a cook who leaves a mess of remnants and tell him that that's what the inside of his brain is like. When you leave behind remnants, it sticks to the rest of your code and becomes harder and harder to get off. “Thomas Keller then covers the container, stores it, cleans his knife, and wipes down his board so that it appears nothing at all has happened. ”
+hospitality is empathy
+Michael at Taco Maria & Chef's lesson of taking time to think “Under Keller, cooks learned the importance of moving slowly. If you were moving fast, something was wrong—you hadn’t planned well, you hadn’t been efficient—and your food would suffer. To move slowly was the goal, an element of the self-discipline you learned as you became a better cook.” Excerpt From: Michael Ruhlman. “The Soul of a Chef.” iBooks.
+***
+“On the way out he stopped to wipe crumbs off a cutting board used by the cheese station to slice bread, and in the parking lot he picked up a cigarette butt.
+“Is the guest going to notice the cigarette butt in the driveway?” he asked me. “Consciously, no.” Eric seemed to be in part instructing me and in part playing the role of model French Laundry employee for my benefit. He said, “It’s all those unconscious things that make this a beautiful place.” But he was no doubt genuine. Keller was forever picking up cigarette butts himself. And I would warrant that if Keller had seen one of his cooks spot a butt and not pick it up, that cook would thereby have created an insurmountable barrier to advancement in the kitchen. Most of these cooks, Keller explained to me, hoped to own their own restaurants one day; if they were good enough for that, they would treat this place as if they were the owners. If they didn’t, they would never be successful, he thought, because you can’t spend half a career as someone else’s employee and then suddenly, one day, start thinking like an owner. If you wanted to be a great chef and restaurateur, you had to think like an owner and act like the owner from your very first job as prep cook, or you’d never develop the muscles for when the time actually arrived.”Excerpt From: Michael Ruhlman. “The Soul of a Chef.” iBooks. ”Excerpt From: Michael Ruhlman. “The Soul of a Chef.” iBooks.
+***
+“He liked the fact that all shallots here were chopped by hand and not pulsed in a Robot Coupe. When you chop shallots in a food processor (when I was a cook, I preferred this method . . . because it was faster), the cut is irregular, leaving you with some large chunks, some perfect, and the rest a shallot puree. Grant was even willing to concede that using a processor didn’t hurt the food. “It wouldn’t necessarily affect the food,” he said. “But it affects your psyche. If you take a half hour to chop shallots, you’re going to make sure they don’t get wasted.” Excerpt From: Michael Ruhlman. “The Soul of a Chef.” iBooks.
+“Butter, butter, butter, give me more butter” was one of his favorite quotations from the chef he most admired in history, Fernand Point. And every day the fish station cook would create fifteen or twenty pounds of what they called beurre monté. If you melt butter, its components separate; by starting with a little water, just a tablespoon or so, and whisking the butter into it one chunk at a time, you could keep those components together in an opaque yellow fluid that was pure whole butter.” Excerpt From: Michael Ruhlman. “The Soul of a Chef.” iBooks.
+“If you’re cooking green vegetables, you might think it’s acceptable to throw the whole lot into a pan of boiling water. But you’re going to create a problem. The water immediately stops boiling, and now that the water is not so hot, the green pigment, chlorophyll, is killed off and the vegetable loses its brightness. Whereas cooking a small quantity of vegetables will keep the water at a boiling point and the vegetables will end up on the plate looking vibrant—and green.” Excerpt From: Marco Pierre White. “The Devil in the Kitchen.” iBooks.
 
+
+- Startup Best Practices: for startups, engineering is often the easiest part.
+	- [“I won’t work with anyone that has not had a shitty job at some point.” — Chris Sacca
+](https://medium.com/life-learning/chris-sacca-s-639f0f5f3b9c)
+- What Tech companies & start ups can learn from fine dining
+Servant leadership & supportive creative culture. Compare chefs & their history, mgmt style, kitchen culture to startups & how we can emulate what they did right.
+Chef culture (Faviken, Noma, etc), old school french brigade culture & hospitality culture --> production & startup culture i.e. Zoe Nathan throwing out bad pastry instead of serving sub par. reduces reputation with customers & your standards.
+	- [Fantasies of a Happier Kitchen](http://luckypeach.com/mad5/) By Rene Redzepi
+	- [Readers Responses To Fantasies of a Happier Kitchen](http://luckypeach.com/responses-to-fantasies-of-a-happier-kitchen/)
+- _Managers, amirite_?: How disrupting management in startups isn't working
+	- [Buffer: What We Got Wrong About Holacracy](http://www.fastcompany.com/3050759/lessons-learned/what-we-got-wrong-about-holacracy)
+	- [Buffer: Early Reflections](https://open.bufferapp.com/early-reflections-buffers-switch-working-without-managers/)
+	- [Buffer: What We Got Wrong About Self Management](https://open.bufferapp.com/self-management-hierarchy/)
+	- [The $7 Million Startup With Zero Managers](http://www.inc.com/jeff-haden/the-7-million-startup-with-zero-managers.html)
+	- [Holacracy](http://www.holacracy.org/how-it-works/)
+	- [Bystander Effect](https://en.wikipedia.org/wiki/Bystander_effect)
+	- [Diffusion Of Responsibility](https://en.wikipedia.org/wiki/Diffusion_of_responsibility)
+	- [MailChimp Creative Mornings](https://vimeo.com/34081566) Working on side projects is beneficial to the company as a whole.
+	- Zappos taking ownership of issues...
+	- Sense of urgency, Ownership of problems
 
 
 ## Links And Shit
