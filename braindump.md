@@ -2,7 +2,26 @@
 
 conflict struggle resolution
 what it is --> what it could be
-harms & solvency
+definition, harms, solvency, impacts
+
+working in kitchens taught me a lot of lessons.
+
+in kitchens you are dealing with:
+• shipping fast and shipping often
+• synchronized collaboration
+• executing within a design pattern
+• documenting our process
+• refactoring
+• empathy
+
+communication -->
+--> open source
+understanding and cherishing ingredients --> 
+learning the science behind cooking --> cs theory
+
+
+problems we face in engineering v. how chefs work
+
 
 
 Introduction
@@ -37,6 +56,10 @@ Mythology
 -
 Hospitality
 - Danny Meyer
+
+everytime i hear people touting opinions & taking it personally when a dish isn't great
+"we aren't curing cancer"
+
 
 
 # hi EmpireJS!
@@ -183,6 +206,30 @@ Chef culture (Faviken, Noma, etc), old school french brigade culture & hospitali
 	- [MailChimp Creative Mornings](https://vimeo.com/34081566) Working on side projects is beneficial to the company as a whole.
 	- Zappos taking ownership of issues...
 	- Sense of urgency, Ownership of problems
+
+
+<p>"It seems to me that our three basic needs for food and security and love are so mixed and mingled and entwined that we cannot straightly think of one without the others."</p><p class="quote">–MFK Fisher</p>
+
+  "it seems to me that our three basic needs for food and security and love are so mixed and mingled and entwined that we cannot straightly think of one without the others."
+ -MFK Fisher
+
+Setting The Table, Danny Meyer
+
+"the five A's for effecitvely addressing mistakes: awareness, acknowledgement, apology, action & additional generosity."
+"make new mistakes everyday"
+
+"Creating community wealth is the most effective way to achieve lasting social change."
+"invest in your community. a business that understands how powerful it is to create wealth for the community stands a much higher chance of creating wealth for its own investors."
+
+"A 51 percenter has five core emotional skills: optimistic warmth, intelligence, work ethic, empathy, self awareness & integrity."
+"the excellence reflex is a natural reaction to fix something that isn't right, or to improve something that could be better. the excellence reflex is rooted in instinct and upbringing and then constantly honed through awareness, caring and practice."
+
+
+"I believe that anyone who is qualified for a job in our company is also qualified for many other jobs at the same pay scale. it's up to us to provide solid reasons for our employees to want to work for us, over and beyond their compensation."
+"constant gentle pressure"
+"fire is power... managers can use their fire as a torch: a light for guidance and teaching, and for leading and showing the way. they can use their fire to offer warmth and empathy, to make employees feel safe. a manager's fire can be used as a campfire, to form collegial bonds with employees, and to inspire others and help them grow. a fire can also be a bonfire to rally the troops, to foster team folklore, to get the group motivated, and to bring people together in a unified pursuit of a common goal. managers who inspire high levels of performance in their employees know how to produce magical results that leave people in awe. managers must be wizards - the way they 'breathe fire' is a source of motivation that impels employees to imitate them and to grow and managers must learn to use the fire in their own bellies as a way to fuel and refuel their own ongoing passion for this business. if leaders lack fire, why would anyone want to follow them? when managers use their fire improperly employees will always figure out ways to snuff it out. if a manager builds too many campfires, power may be compromised, causing the line between manager and employee to dissolve..." (such a long quotation)
+"servant leadership, as articulated by the late Robert Greenleaf. He believed that organizations are at their most effective when leaders encourage collaboration, trust, foresight, listening & empowerment. in any hierarchy, it's clear that the ultimate boss holds the most power, but a wonderful thing happens when you flip the traditional organizational chart upside down... my job (as the boss) is to serve and support the next layer 'above' me so that the people on that layer can then serve and suppoer the next layer 'above' them and so on. ultimately our cooks, servers, reservationists, coast checkers & dishwashers are then in the best possible position to serve our guests. you cannot have a dynamic organization unless you are constantly encouraging people to improve and believing that they can do it."
+
 
 
 ## Links And Shit
