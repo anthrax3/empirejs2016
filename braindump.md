@@ -1,7 +1,18 @@
 # Braindump
 
+conflict struggle resolution
+what it is --> what it could be
+harms & solvency
+
+
 Introduction
 - from kitchens to computers
+
+- what does it mean to be a chef?
+  - Appetite
+  - Hospitality
+  - Teamwork
+
 - obviously there are a lot of things, the restaurant industry is known for that we shouldn't emulate
   - yelling
   - militaristic iteration
@@ -28,7 +39,28 @@ Hospitality
 - Danny Meyer
 
 
+# hi EmpireJS!
+I came into coding in a round about way. (Kitchens to computers)
+i couldn't help but notice the similarities.
 
+of course there are differences
+
+and there are things we as software engineers do more efficiently
+
+~but we're still a young industry~
+
+as a FoH employee i spent a lot of time focused on UI & UX
+as a BoH employee i spent a lot of time focused on iterating & executing tickets
+
+i could talk about
+- Jiro
+- my experience
+-
+leadership, teamwork, hierarchy, community & iteration
+
+
+
+_leadership, teamwork, hierarchy, community & iteration_
 
 Anthony Bourdain - No Reservations Les Halles Episode
 Danny Meyers - The Art of Hospitality
@@ -39,7 +71,7 @@ Julia Child & MFK Fisher ?
 Rene Redzepi
 Raymond Blanc or Michel Bras
 
-we care deeply, we spend our spare time on personal cooking projects & get hard ons for our ingredients.  ut at the end of the say, if chef wants it NOW, we ship. SENSE OF URGENCY
+we care deeply, we spend our spare time on personal cooking projects & get hard ons for our ingredients.  but at the end of the say, if chef wants it NOW, we ship. SENSE OF URGENCY
 
 
 Little Wins
@@ -65,6 +97,7 @@ family meal
 first you learn how, then you learn why. you learn it in this order bc there is too much to learn about the why, so you have to learn how first so that you can be educated on picking which "whys" you want to learn [César Vega's The Kitchen As Laboratory](http://www.smithsonianmag.com/arts-culture/how-do-you-cook-the-perfect-egg-87844887/?no-ist)
 Chefs worship at the church of the abuela, nonna, bubbie, babushka, oba-san, (grandmother)
 it's important to remember that design should be about what's familiar.
+when you start getting attention, you have to work twice as hard. hype means more users which means higher expectations.
 
 Wylie Dufresne on Eggs Benedict "we take things that are familiar and present them in an unfamiliar way... eggs benedict means something to you, you have emotional ties, whether it means sunday brunch or your mom making it for you... we want to take it and upend it but we don't want to mess with the spirit of it. when you put it in your mouth, and have eggs benedict the way you remember it." https://www.youtube.com/watch?v=PBMqEeq2j6o at 19:45
 
@@ -98,6 +131,12 @@ On working clean. Bourdain talks about how a chef will put his hand down on the 
 hospitality is empathy
 Michael at Taco Maria & Chef's lesson of taking time to think “Under Keller, cooks learned the importance of moving slowly. If you were moving fast, something was wrong—you hadn’t planned well, you hadn’t been efficient—and your food would suffer. To move slowly was the goal, an element of the self-discipline you learned as you became a better cook.” Excerpt From: Michael Ruhlman. “The Soul of a Chef.” iBooks.
 
+Treat it like it's yours & one day it will be. –Thomas Keller
+
+opinions are like a chef's palate. we need to be objective about our opinions bc not everyone has the same taste as we do. be objective.
+salting things is hard.
+"as a chef you learn to salt to taste... you taste as you go and adjust seasoning, taste and adjust seasoning. eventually it becomes intuition. no one is born with it. you learn from overseasoning. you learn from underseasoning. my role as a chef now is not to provide the tools to measure exactly (to the milligram) i want to create that intuition... i think in that dichotomy they'll know what really great food is."–David Chang
+
 ***
 “On the way out he stopped to wipe crumbs off a cutting board used by the cheese station to slice bread, and in the parking lot he picked up a cigarette butt.
 “Is the guest going to notice the cigarette butt in the driveway?” he asked me. “Consciously, no.” Eric seemed to be in part instructing me and in part playing the role of model French Laundry employee for my benefit. He said, “It’s all those unconscious things that make this a beautiful place.” But he was no doubt genuine. Keller was forever picking up cigarette butts himself. And I would warrant that if Keller had seen one of his cooks spot a butt and not pick it up, that cook would thereby have created an insurmountable barrier to advancement in the kitchen. Most of these cooks, Keller explained to me, hoped to own their own restaurants one day; if they were good enough for that, they would treat this place as if they were the owners. If they didn’t, they would never be successful, he thought, because you can’t spend half a career as someone else’s employee and then suddenly, one day, start thinking like an owner. If you wanted to be a great chef and restaurateur, you had to think like an owner and act like the owner from your very first job as prep cook, or you’d never develop the muscles for when the time actually arrived.”Excerpt From: Michael Ruhlman. “The Soul of a Chef.” iBooks. ”Excerpt From: Michael Ruhlman. _The Soul of a Chef._ iBooks.
@@ -106,6 +145,23 @@ Michael at Taco Maria & Chef's lesson of taking time to think “Under Keller, c
 “He liked the fact that all shallots here were chopped by hand and not pulsed in a Robot Coupe. When you chop shallots in a food processor (when I was a cook, I preferred this method . . . because it was faster), the cut is irregular, leaving you with some large chunks, some perfect, and the rest a shallot puree. Grant was even willing to concede that using a processor didn’t hurt the food. “It wouldn’t necessarily affect the food,” he said. “But it affects your psyche. If you take a half hour to chop shallots, you’re going to make sure they don’t get wasted.” Excerpt From: Michael Ruhlman. _The Soul of a Chef._ iBooks.
 “Butter, butter, butter, give me more butter” was one of his favorite quotations from the chef he most admired in history, Fernand Point. And every day the fish station cook would create fifteen or twenty pounds of what they called beurre monté. If you melt butter, its components separate; by starting with a little water, just a tablespoon or so, and whisking the butter into it one chunk at a time, you could keep those components together in an opaque yellow fluid that was pure whole butter.” Excerpt From: Michael Ruhlman. “The Soul of a Chef.” iBooks.
 “If you’re cooking green vegetables, you might think it’s acceptable to throw the whole lot into a pan of boiling water. But you’re going to create a problem. The water immediately stops boiling, and now that the water is not so hot, the green pigment, chlorophyll, is killed off and the vegetable loses its brightness. Whereas cooking a small quantity of vegetables will keep the water at a boiling point and the vegetables will end up on the plate looking vibrant—and green.” Excerpt From: Marco Pierre White. “The Devil in the Kitchen.” iBooks.
+
+
+talk *about* the article fantasies of a happier kitchen
+
+"A former chef I worked for always told me to explore other cultural activities on my days off—seeing a film, going to a museum, listening to a concert—since creativity breeds creativity."
+"Ultimately, I want to cultivate a space where people can think, assess, and ask questions when they don’t understand a technique or request. I try not to be overly disappointed in a way that makes someone feel bad. I try to teach from a place of compassion."
+"At times, we need to learn to step back as much as we need to step forward."
+"Negativity and abuse are not necessary aspects of kitchen culture—fear doesn’t always enhance productivity. But a little fear is not a bad thing. It means you really care about your craft. I’ve always trained in kitchens that didn’t tolerate abuse—I’ve been reprimanded, yes, but never abused. The times I’ve been reprimanded, I used the situation to motivate myself to work harder."
+"Once, I’d been asked to concasse some beautiful tomatoes, but I didn’t fully understand the meaning at the time. Confronted by a mix of fear and pride, I hesitated to ask for an explanation and instead left the tomatoes in a pot of boiling water for too long. Upon returning and seeing the stewed tomatoes, my chef screamed at me. Trying to suppress my shame, I quickly turned the simmered, pulpy tomatoes into our staff meal. Now, I make a point of explaining terms very clearly to new cooks in my kitchen."
+"The other time in which a mistake now dictates how I run my own kitchen happened at the end of a long service. I had been so eager to hang up my apron for the night that I wasn’t paying attention and ended up overcooking my lamb. I was about to plate it when the chef gave me a look of disappointment followed by a deep sigh: “You’re only as good as your last plate.” I still live by those words. Now, at the end of the night I pay especially close attention to the final tickets, making sure to remind my cooks how important those final dishes are to our guests overall dining experience."
+–[Cortney Burns](http://luckypeach.com/culture-of-the-kitchen-cortney-burns/)
+
+"the desire (to be the best), sometimes manifests itself as a kitchen full of yelling. i can tell you personally, that kind of kitchen space is where nobody wants to say anything, they're too scared. Any kind of creative process reaches a standstill. if there is (only) one totalitarian opinion in the kitchen, creativity withers. constructive criticism is a crucial ingredient in any good dish." –David Chang
+"I used to go back and forth about whether i need to be more militant or more relaxed. But I've realized our restaurants work best when they're both, simultaneously. An environment where cooks have thick skin and a high level of empathy." –David Chang
+
+
+i think it would be really interesting if we had code critics aka food critics
 
 
 - Startup Best Practices: for startups, engineering is often the easiest part.

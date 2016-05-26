@@ -1,5 +1,5 @@
 # Jiro Dreams Of Code
-What Startups Can Learn From Chef Culture
+## What Startups Can Learn From Chef Culture
 
 Presented at [EmpireJS](http://2016.empirejs.org/) May 27, 2016.
 

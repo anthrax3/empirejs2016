@@ -3,7 +3,7 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 
-  <title>SimpleSlides 4.0</title>
+  <title>Jiro Dreams of Code | EmpireJS 2016</title>
 
   <style type="text/css">
   /*
@@ -34,6 +34,8 @@
       margin: 10px;
     }
     #counter {
+      font-family: "Futura", monospace;
+      color: #FFFFFF;
       position: absolute;
       top: 10px;
       right: 10px;
@@ -53,6 +55,118 @@
 
     /*  Custom CSS to make the presentation pretty. */
     body { font-family: Garamond, Georgia, serif;}
+
+    .empire {
+      overflow: hidden;
+      display: flex;
+      flex-direction: column;
+      justify-content: top;
+      align-items: center;
+    }
+    .twitter {
+      position: absolute;
+      bottom: 30px;
+      left: 20px;
+    }
+    h1 {
+      font-family: "Futura";
+      color: #FFFFFF;
+	    text-shadow: .1em .1em #000000;
+      font-size: 70px;
+      text-transform: uppercase;
+      margin: 0 0 40px;
+    }
+    h2 {
+      font-family: "Futura";
+      color: #FFFFFF;
+	    text-shadow: .15em .15em #000000;
+      font-size: 40px;
+      font-weight: 900;
+      text-transform: uppercase;
+      margin: 0;
+    }
+    p {
+      font-family: "Lucida Sans Typewriter", Helvetica, sans-serif;
+      color: #FFFFFF;
+	    text-shadow: .1em .1em #000000;
+      font-size: 30px;
+      line-height: 1em;
+      margin: 10px 0;
+      text-align: right;
+      align-self: flex-end;
+    }
+    a {
+      font-family: "Lucida Sans Typewriter", Helvetica, sans-serif;;
+      color: #FFFFFF;
+	    text-shadow: .1em .1em #000000;
+      font-size: 30px;
+      text-decoration: none;
+    }
+    .title h1 {
+      font-size: 4.5em;
+	    text-shadow: .1em .1em #000000;
+    }
+    .title h2 {
+      font-size: 2.05em;
+    }
+    .title p {
+      margin: 60px 50px 0 0;
+    }
+    .title p, .title a {
+      font-size: 35px;
+    }
+    .quote {
+      margin-left: auto;
+    }
+    .rose {
+      background-color: rgba(206, 148, 134, 0.62);
+    }
+    .bloom {
+      background-color: rgba(181, 120, 148, 0.52);
+    }
+    .lavender {
+      background-color: rgba(119, 101, 136, 0.66);
+    }
+    .lake {
+      background-color: rgba(106, 124, 173, 0.56);
+    }
+    .pool {
+      background-color: rgba(179, 218, 225, 0.68);
+    }
+    .glass {
+      background-color: rgba(120, 181, 175, 0.48);
+    }
+    .nori {
+      background-color: rgba(73, 144, 73, 0.51);
+    }
+    .olive {
+      background-color: rgba(105, 117, 0, 0.5);
+    }
+    .leaf {
+      background-color: rgba(180, 181, 135, 0.85);
+    }
+    .lemonade {
+      /*background-color: rgba(232, 201, 93, 0.85);*/
+      background-color: rgba(255, 198, 0, 0.49);
+    }
+    .salmon {
+      background-color: rgba(255, 107, 12, 0.55);
+    }
+    .tomato {
+      background-color: rgba(255, 39, 0, 0.5);
+    }
+    .toast {
+      background-color: rgba(150, 63, 0, 0.51);
+    }
+    .background img {
+      position: absolute;
+      z-index: -1;
+      top: 0;
+      left: 0;
+      width: 100vw;
+      -webkit-filter: grayscale(100%);
+      mix-blend-mode: luminosity;
+    }
   </style>
 
   <!-- jQuery (required for slides to work) -->
@@ -268,41 +382,55 @@
 <!-- The one parent element must have an ID of #simpleslides -->
 <body id="simpleslides">
 
-  <div>
-    <h1>SimpleSlides 4.0</h1>
-
-      <h2>A single HTML document using CSS and jQuery to make a Powerpoint-like presentation</h2>
-
-      <p>Made with love, by <a href="http://jennmoney.biz" target="_blank">Jenn Schiffer</a>.</p>
-
-      <p>Get it on Github: <a href="https://github.com/jennschiffer/SimpleSlides">https://github.com/jennschiffer/SimpleSlides</a></p>
+  <div class="empire background lemonade title"}>
+    <img src="assets/pie.jpg" />
+    <img src="" />
+    <h1>Jiro Dreams Of Code</h1>
+    <h2>What Startups Can Learn From Chef Culture</h2>
+    <p>with <a href="http://www.twitter.com/patriciarealini">@patriciarealini</a></p>
   </div>
 
+  <div class="empire background salmon"}>
+    <img src="assets/knife.jpg" />
+    <h1>HI EMPIRE</h1>
 
-  <div>
-      <h3>Features</h3>
-
-      <ul>
-        <li>Your slides are a web page, so all slide content is HTML.</li>
-        <li>Each parent &lt;div> in the #simpleslides element is an individual slide.</li>
-        <li>Completely customizable style-wise - just add to existing CSS.</li>
-          <li>Click navigation, keyboard shortcuts (&larr; / &rarr;)</li>
-          <li>Slide counter - shows what slide out of how many you're on.</li>
-          <li>Looks great on the iPad, which is what I usually present these things on.</li>
-          <li>Heavily documented - read my inline comments and learn how it was made and how to edit.</li>
-          <li>add #slide=[enter slide number here] to the end of your presentation URL to go to that slide!</li>
-      </ul>
+    <a class="twitter" href="https://www.twitter.com/patriciarealini">@patriciarealini</a>
   </div>
 
+  <div class="empire background tomato"}>
+    <img src="assets/playground.jpg" />
+    <h1>Yes Chef!</h1>
 
-  <div>
-    <h3>4.0 Changes</h3>
-
-      <ul>
-          <li>adds jquery bbq so that you can have page slide number in the URL</li>
-          <li>removes the separate jquery plugin for less confusion and bulk</li>
-      </ul>
+    <a class="twitter" href="https://www.twitter.com/patriciarealini">@patriciarealini</a>
   </div>
+
+  <!-- <div class="empire background"}>
+    <img src="" />
+    <h1>HI EMPIRE</h1>
+
+    <a class="twitter" href="https://www.twitter.com/patriciarealini">@patriciarealini</a>
+  </div> -->
+
+  <!-- <div class="empire background"}>
+    <img src="" />
+    <h1>HI EMPIRE</h1>
+
+    <a class="twitter" href="https://www.twitter.com/patriciarealini">@patriciarealini</a>
+  </div> -->
+
+  <!-- <div class="empire background"}>
+    <img src="" />
+    <h1>HI EMPIRE</h1>
+
+    <a class="twitter" href="https://www.twitter.com/patriciarealini">@patriciarealini</a>
+  </div> -->
+
+  <!-- <div class="empire background"}>
+    <img src="" />
+    <h1>HI EMPIRE</h1>
+
+    <a class="twitter" href="https://www.twitter.com/patriciarealini">@patriciarealini</a>
+  </div> -->
 
 </body>
 </html>
