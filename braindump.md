@@ -86,9 +86,12 @@ if you aspire to be a lead engineer or architect, you need to be extra vigilant.
 ### empathy
 #### empathy for our team
 
+"A 51 percenter has five core emotional skills: optimistic warmth, intelligence, work ethic, empathy, self awareness & integrity." –Danny Meyer, Setting The Table
+"the excellence reflex is a natural reaction to fix something that isn't right, or to improve something that could be better. the excellence reflex is rooted in instinct and upbringing and then constantly honed through awareness, caring and practice." –Danny Meyer, Setting The Table
+
 On tempers “Keller was once well known for his temper. Many of the cooks who worked under him hated him. When one of his line cooks once complained about a late walk-in, Keller fired the cook on the spot. You want to go home, go home, Keller said. The young cook pleaded and pleaded. But fired means fired. Reminded about his early days, he says, “There comes a point when you’ve exhausted rational expression. And you’ve got to revert to more primitive means. But by then it’s too late anyway. So now he uses calmer means to convey his anger or disapproval. Silence can be more effective than a scream. And he will get angry in his kitchen, but I never heard him raise his voice. His anger is concentrated and focused.” Excerpt From: Michael Ruhlman. “The Soul of a Chef.” iBooks. ”Excerpt From: Michael Ruhlman. _The Soul of a Chef_
 
-"the desire (to be the best), sometimes manifests itself as a kitchen full of yelling. i can tell you personally, that kind of kitchen space is where nobody wants to say anything, they're too scared. Any kind of creative process reaches a standstill. if there is (only) one totalitarian opinion in the kitchen, creativity withers. constructive criticism is a crucial ingredient in any good dish." –David Chang
+"The desire (to be the best), sometimes manifests itself as a kitchen full of yelling. I can tell you personally, that kind of kitchen space is where nobody wants to say anything, they're too scared. Any kind of creative process reaches a standstill. If there is (only) one totalitarian opinion in the kitchen, creativity withers. Constructive criticism is a crucial ingredient in any good dish." –David Chang, Momofuku
 
 "I used to go back and forth about whether i need to be more militant or more relaxed. But I've realized our restaurants work best when they're both, simultaneously. An environment where cooks have thick skin and a high level of empathy." –David Chang
 
@@ -98,8 +101,6 @@ On tempers “Keller was once well known for his temper. Many of the cooks who w
 
 "the five A's for effectively addressing mistakes: awareness, acknowledgement, apology, action & additional generosity." –Danny Meyer, Setting The Table
 "make new mistakes everyday"
-
-"A 51 percenter has five core emotional skills: optimistic warmth, intelligence, work ethic, empathy, self awareness & integrity." –Danny Meyer, Setting The Table
 
 "the excellence reflex is a natural reaction to fix something that isn't right, or to improve something that could be better. the excellence reflex is rooted in instinct and upbringing and then constantly honed through awareness, caring and practice." –Danny Meyer, Setting The Table
 
