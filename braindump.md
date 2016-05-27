@@ -127,12 +127,6 @@ why we need to contribute to OSS
 
 
 
-on whiteboarding interviews
-“In my experience, cooks are visual people. It has always been difficult for me to sit down with a piece of paper and write a menu. But if I hold an eggplant and imagine how it tastes, ideas come together. So it’s actually liberating to be able to go to the farm or step into the walk-in, and then see a dish in my mind and say, “I know how I’m going to use this.” Suddenly conceptualizing a dish is not thinking about a protein, two vegetables, and a sauce. It’s not choosing one from column A and one from column B.” –David Kinch _Manresa_
-
-
-
-
 
 
     Good Habits
@@ -150,6 +144,9 @@ on whiteboarding interviews
 
 ----------------------------------------
 
+
+on whiteboarding interviews
+“In my experience, cooks are visual people. It has always been difficult for me to sit down with a piece of paper and write a menu. But if I hold an eggplant and imagine how it tastes, ideas come together. So it’s actually liberating to be able to go to the farm or step into the walk-in, and then see a dish in my mind and say, “I know how I’m going to use this.” Suddenly conceptualizing a dish is not thinking about a protein, two vegetables, and a sauce. It’s not choosing one from column A and one from column B.” –David Kinch _Manresa_
 
 
 - obviously there are a lot of things, the restaurant industry is known for that we shouldn't emulate
