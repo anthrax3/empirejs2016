@@ -42,13 +42,13 @@ psychological safety & trust
 ### executing within a design pattern
 
 "Cooking is about two things... regardless of what level you're cooking at... It's all about product & execution." –Thomas Keller
-(execution is technique. product is languages & frameworks.)
+(execution aka technique is our tech skills. product is languages. seasoning and gadgets are tools and frameworks.)
 the only way to do this is to practice.
 Developing your Palette - Experience running into things and recognizing them
 
 "Out of this appetite for knowledge has come some really amazing results, techniques and cooking styles. And some of these will stay and become part of everyday cooking and some of them will go away, probably for the better. but regardless of which things do or don't catch on, what will remain is the knowledge that we've gained along the way, in the process. and what we will be left with, ultimately... are better cooks. that's really our goal, to make better cooks." –Wylie Dufresne
 
-on technology in the kitchen. "when i started cooking the food processor did not exist. we didn't have cuisinarts (or) robocoupes. when we made a puree we had to put it in a (small) blender... or chop it, chop it, chop it and chop it and then pass it through sieves to make a puree."
+on technology in the kitchen. "When i started cooking the food processor did not exist. we didn't have cuisinarts (or) robocoupes. when we made a puree we had to put it in a (small) blender... or chop it, chop it, chop it and chop it and then pass it through sieves to make a puree."
 in cooking we understand _why_ techniques are preferable
 
 learning the science behind cooking --> cs theory
